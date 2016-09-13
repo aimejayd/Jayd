@@ -1,0 +1,4 @@
+1. write a function to calculate the factorial of a number (non-negative intege). the fucntion accept the number as argument 
+2. write a function to calculate the product of 2 numbers passed ad argument 
+3. create 3 version of a function to calculate the area of a rectangle 
+4. write a function is palindrome that accpts a string as parameter and returns true if the string is a palindrome and false otherwise a string is comsiclered apolindrame if has the same 
